@@ -1,4 +1,4 @@
-declare module "@/utils/validate" {
+declare module "cjb-utils" {
     export const Validate: {
         IDCardCheck: (value: string) => boolean;
         emailCheck: (value: string) => boolean;
