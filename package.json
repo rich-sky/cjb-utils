@@ -1,6 +1,6 @@
 {
   "name": "cjb-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "some common utils",
   "main": "index.js",
   "types": "index.d.ts",
